@@ -1,5 +1,8 @@
 # React Tetris - Starter files
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chandrapati.react-tetris-starter-files&left_text=visitors)
+
+
 This is the starter files for the React-Tetris tutorial, you will find: 
 
 1. The background (from Unsplash, Clemen Vrankar).
